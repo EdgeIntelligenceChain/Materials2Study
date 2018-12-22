@@ -26,3 +26,7 @@
 + 一篇去中心化的众包论文《CrowdBC: A Blockchain-based Decentralized Framework for Crowdsourcing》
   - 2018年的CCF A刊文章，区块链部分用的是以太坊智能合约，优点是实现起来容易，缺点是漏洞太多，容易被参与人（特别是众包的任务发布者）钻空子。
   - 写毕设的可以参考一下。
++  [《比特币白皮书》](https://github.com/EdgeIntelligenceChain/Materials2Study/blob/master/%E6%AF%94%E7%89%B9%E5%B8%81%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf) 
++  电子书[《精通比特币》](http://book.8btc.com/books/6/masterbitcoin2cn/_book/)
+  Antonopoulos
++ 电子书[《比特币开发者指南》](http://v1.8btc.com/books/834/bitcoin-developer-guide/_book/)

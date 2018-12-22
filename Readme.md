@@ -22,3 +22,7 @@
   - 硬货
 
 # 有用连接
+
++ 一篇去中心化的众包论文《CrowdBC: A Blockchain-based Decentralized Framework for Crowdsourcing》
+  - 2018年的CCF A刊文章，区块链部分用的是以太坊智能合约，优点是实现起来容易，缺点是漏洞太多，容易被参与人（特别是众包的任务发布者）钻空子。
+  - 写毕设的可以参考一下。
